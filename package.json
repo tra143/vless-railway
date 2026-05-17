@@ -1,0 +1,15 @@
+{
+  "name": "vless-railway",
+  "version": "1.0.0",
+  "description": "VLESS proxy node — Xray-core over WebSocket+TLS on Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "keywords": ["vless","xray","proxy","railway"],
+  "license": "MIT"
+}

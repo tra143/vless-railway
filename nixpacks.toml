@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["nodejs_20", "unzip", "curl"]
+
+[phases.build]
+cmds = []
+
+[start]
+cmd = "node server.js"
